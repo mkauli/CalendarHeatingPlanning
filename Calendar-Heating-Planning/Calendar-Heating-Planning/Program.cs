@@ -1,4 +1,4 @@
-using Calendar_Heating_Planning.Components;
+using CalendarHeatingPlanning.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
